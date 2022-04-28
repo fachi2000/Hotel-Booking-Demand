@@ -1,2 +1,3 @@
 # Hotel-Booking-Demand
-Exploratory Data Analysis and Prediciotns of Hotel Booking dataset
+A university project for Machine Learning: ALgorithms & Heuristics.
+Data Pre-processing, Exploratory Data Analysis and Predictions of Hotel Booking dataset.
