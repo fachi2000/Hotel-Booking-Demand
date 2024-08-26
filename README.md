@@ -4,3 +4,5 @@ Data Pre-processing, Exploratory Data Analysis and Predictions of Hotel Booking 
 
 Dataset: Hotel booking demand by Jesse Mostipak.<br>
 https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
+Francisco Perez de Prado
